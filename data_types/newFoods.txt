@@ -1,0 +1,215 @@
+Name: Lasagna
+Origin: 7
+Vegetarian: N
+Calories: 135
+
+Name: Butter Chicken
+Origin: 2
+Vegetarian: N
+Calories: 490
+
+Name: Moo Goo Guy Pan
+Origin: 1
+Vegetarian: N
+Calories: 272
+
+Name: Vegetable Alicha
+Origin: 3
+Vegetarian: Y
+Calories: 138
+
+Name: Spanakopita
+Origin: 5
+Vegetarian: Y
+Calories: 260
+
+Name: Chirashi Don
+Origin: 6
+Vegetarian: N
+Calories: 600
+
+Name: Canuck Burger
+Origin: 0
+Vegetarian: N
+Calories: 7500
+
+Name: B'ssara
+Origin: 8
+Vegetarian: Y
+Calories: 178
+
+Name: Shark Fin Soup
+Origin: 1
+Vegetarian: N
+Calories: 46
+
+Name: Chamuco
+Origin: 4
+Vegetarian: Y
+Calories: 150
+
+Name: Natto
+Origin: 6
+Vegetarian: Y
+Calories: 212
+
+Name: Canada Goose Chili
+Origin: 0
+Vegetarian: N
+Calories: 199
+
+Name: Diet Free-Range Gluten-free Water
+Origin: 0
+Vegetarian: Y
+Calories: 0
+
+Name: Kung Pao Chicken
+Origin: 1
+Vegetarian: N
+Calories: 229
+
+Name: General Tao Chicken
+Origin: 1
+Vegetarian: N
+Calories: 850
+
+Name: Spicy Vegetable Moo Shu
+Origin: 1
+Vegetarian: Y
+Calories: 140
+
+Name: BBQ Pork
+Origin: 1
+Vegetarian: N
+Calories: 920
+
+Name: Orange Chicken
+Origin: 1
+Vegetarian: N
+Calories: 800
+
+Name: Vegetables with Cashew Nuts
+Origin: 1
+Vegetarian: Y
+Calories: 143
+
+Name: Lemon Chicken
+Origin: 1
+Vegetarian: N
+Calories: 226
+
+Name: Beef with Green Pepper
+Origin: 1
+Vegetarian: N
+Calories: 251
+
+Name: Sweet and Sour Pork
+Origin: 1
+Vegetarian: N
+Calories: 231
+
+Name: Szechuan Shrimp
+Origin: 1
+Vegetarian: N
+Calories: 516
+
+Name: Poutine
+Origin: 0
+Vegetarian: N
+Calories: 710
+
+Name: Teppanyaki
+Origin: 6
+Vegetarian: N
+Calories: 200
+
+Name: Greek Salad
+Origin: 5
+Vegetarian: Y
+Calories: 185
+
+Name: Fettuccine
+Origin: 7
+Vegetarian: N
+Calories: 266
+
+Name: Teriyaki
+Origin: 6
+Vegetarian: N
+Calories: 233
+
+Name: Shortbread 
+Origin: 9
+Vegetarian: Y
+Calories: 502
+
+Name: Arepas
+Origin: 10
+Vegetarian: Y
+Calories: 219
+
+Name: Bandeja Paisa
+Origin: 10
+Vegetarian: N
+Calories: 1000
+
+Name: Fricot
+Origin: 0
+Vegetarian: N
+Calories: 360
+
+Name: Chip Butty
+Origin: 11
+Vegetarian: Y
+Calories: 956
+
+Name: Grilled Salmon
+Origin: 0
+Vegetarian: N
+Calories: 511
+
+Name: Ravioli
+Origin: 7
+Vegetarian: N
+Calories: 246
+
+Name: Crepe
+Origin: 7
+Vegetarian: Y
+Calories: 186
+
+Name: Fried Rice
+Origin: 1
+Vegetarian: N
+Calories: 425
+
+Name: Pepperoni Pizza
+Origin: 7
+Vegetarian: N
+Calories: 713
+
+Name: Chicken Kabob
+Origin: 2
+Vegetarian: N
+Calories: 167
+
+Name: Panzerotti
+Origin: 7
+Vegetarian: N
+Calories: 770
+
+Name: Spring Rolls
+Origin: 1
+Vegetarian: Y
+Calories: 200
+
+Name: Chicken Chow Mein
+Origin: 1
+Vegetarian: N
+Calories: 178
+
+Name: Kefta tagine
+Origin: 8
+Vegetarian: N
+Calories: 2112
+
